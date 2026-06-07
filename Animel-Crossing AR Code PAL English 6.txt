@@ -1,0 +1,115 @@
+Tom Nook's Shop Modifier v3 (Temporary, Press Z + DPad Up/Down/Left/Right) [Ralf]
+KQ3M-UEHN-N2MHX
+CTB5-2QWC-U1W1Q
+6JUT-T03J-XJJBV
+2M16-KACZ-TFZ1E
+JNN9-WN0D-4W2WB
+GH2Y-ZB6Z-Q5CME
+0QTD-G1MA-YFXAA
+1202-715R-WK9XG
+5QD7-BWKQ-EXCAR
+MHYV-YJPD-PEZ25
+A563-CPT6-Z030D
+XHQN-92HN-BWA1A
+2AB4-Y3J6-4R2ZY
+EYXK-JW13-ZE70T
+E9FZ-A3QA-YCERP
+W9XF-VM8J-V3EC2
+8R3D-27RJ-YUYTF
+U1P2-YNN2-C828Y
+N5ZQ-48E8-VHV8T
+99D5-X6UR-AJP57
+E4H8-JHYA-16NJB
+DJPB-NKUA-HR72R
+6RJR-2CPX-DANHJ
+
+Z + DPad Up    = Nookington's
+Z + DPad Down  = Nook's Cranny
+Z + DPad Left  = Nook 'n' Go
+Z + DPad Right = Nookway
+
+Tom Nook's Shop Modifier v4 (Permanently, Press Z + DPad Up/Down/Left/Right) [Ralf]
+RXWE-7XHQ-HCRZ3
+CTB5-2QWC-U1W1Q
+JCM2-TU78-K5A1P
+QJHP-9QHA-UB0CG
+E2PU-TATW-33ZUT
+22DV-20AK-P1FVP
+XTNU-ETZK-3XK4K
+8UMX-2Y6N-Q1WQJ
+VD1G-X8GG-4Z6PP
+EPD4-PD1D-45NEB
+A0RW-Q84D-TXTY6
+CM56-JVVY-C2HC1
+0KDV-CX3P-9ZF9H
+AZQF-BVHD-D18N2
+E9FZ-A3QA-YCERP
+W9XF-VM8J-V3EC2
+8R3D-27RJ-YUYTF
+U1P2-YNN2-C828Y
+N5ZQ-48E8-VHV8T
+99D5-X6UR-AJP57
+E4H8-JHYA-16NJB
+DJPB-NKUA-HR72R
+6RJR-2CPX-DANHJ
+
+Z + DPad Up    = Nookington's
+Z + DPad Down  = Nook's Cranny
+Z + DPad Left  = Nook 'n' Go
+Z + DPad Right = Nookway
+
+Upper Left Player House Roof Color Modifier [Ralf]
+01101A74 000000xx
+
+xx = Color ID
+
+Upper Right Player House Roof Color Modifier [Ralf]
+01104124 000000xx
+
+xx = Color ID
+
+Lower Left Player House Roof Color Modifier [Ralf]
+011067D4 000000xx
+
+xx = Color ID
+
+Lower Right Player House Roof Color Modifier [Ralf]
+01108E84 000000xx
+
+xx = Color ID
+
+00 - Red
+01 - Orange
+02 - Yellow
+03 - Pale Green
+04 - Green
+05 - Sky Blue
+06 - Blue
+07 - Purple
+08 - Pink
+09 - Black
+0A - White
+0B - Brown
+
+Train Station Type Modifier [Ralf]
+01118C78 000000xx
+
+xx = Train Station Type
+
+00 - Wooden Train Station (Green)
+01 - Wooden Train Station (Red)
+02 - Wooden Train Station (Purple)
+03 - Wooden Train Station (Blue)
+04 - Wooden Train Station (Orange)
+
+05 - Metal Train Station (Red)
+06 - Metal Train Station (Orange)
+07 - Metal Train Station (Green)
+08 - Metal Train Station (Blue)
+09 - Metal Train Station (Purple)
+
+0A - Brick Train Station (Green)
+0B - Brick Train Station (Blue)
+0C - Brick Train Station (Green Alt.)
+0D - Brick Train Station (Purple)
+0E - Brick Train Station (Red)
