@@ -9,6 +9,7 @@ IMPORTANT: These codes ONLY work with the following requirements:
   Any other version or language will NOT work.
   
   if you are playing in German language on PAL version try
+  
 https://github.com/PartySeb/Animal-Crossing-GCN-AR-Code-PAL-GERMAN/tree/main
   
 --------------------------------------------------
