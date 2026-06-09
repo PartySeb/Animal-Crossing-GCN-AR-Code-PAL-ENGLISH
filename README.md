@@ -10,7 +10,7 @@ IMPORTANT: These codes ONLY work with the following requirements:
   
   If you are playing the PAL version in German, try this instead
   
-https://github.com/PartySeb/Animal-Crossing-GCN-AR-Code-PAL-GERMAN/tree/main
+https://github.com/PartySeb/Animal-Crossing-GCN-AR-Code-PAL-GERMAN
 
 If you are playing the PAL version in FRENCH , try this instead
 
